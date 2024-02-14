@@ -42,3 +42,7 @@ file then import the library. There is a user guide on their website (scikit-lea
    comfortable with programming and want to get into Machine Learning. I would continue using this library as I have only
    explored a fraction of it. Its documentation is structured and informative making SciKit Learn a package I would
    like to continue to use.
+
+References:
+[SciKit Learn](https://scikit-learn.org/stable/index.html)
+
