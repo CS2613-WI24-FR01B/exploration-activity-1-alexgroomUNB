@@ -1,6 +1,6 @@
 1. Which package/library did you select?
 
-I selected SciKit learn (SKlearn).
+I selected [SciKit] learn (SKlearn).
 
 2. What is the package/library?
 
